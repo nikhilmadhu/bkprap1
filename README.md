@@ -2,6 +2,8 @@
 
 This repository contains an analysis of Amazon Mechanical Turk data from the UCI Machine Learning repository.
 
+Detailed Analysis can be found  [here](https://github.com/nikhilmadhu/bkprap1/blob/main/src/prompt.ipynb)
+
 Findings from analysis of Coffee coupons - 
 - Only 50% of Coffee coupons were accepted!
 - When expiration is set for a day rather than 2 hours, there is a higher chance of the coupon being accepted across age groups
